@@ -18,7 +18,7 @@ Use different compiler versions:
 __Gives exception:__
 
 ```kotlin
-kotlinkotlin("jvm") version "1.5.10"
+kotlin("jvm") version "1.5.10"
 ```
 
 
